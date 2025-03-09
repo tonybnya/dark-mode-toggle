@@ -19,7 +19,7 @@ const App = () => {
   return (
     <>
       <div className="flex flex-col items-center justify-center pb-20">
-        <img src={toggleLogo} className="logo" alt="counter logo" />
+        <img src={toggleLogo} className="logo" alt="toggle logo" />
         <h1 className="tracking-tighter">Dark Mode Toggle</h1>
         <div className="flex gap-2">
           <a
